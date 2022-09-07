@@ -1,1 +1,1 @@
-# webcam-to-ascii-converter
+# Simple webcam video conversion to ascii
